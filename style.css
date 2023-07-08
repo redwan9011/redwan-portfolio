@@ -59,7 +59,7 @@ header {
     background-image: url(./images/header_bg.png)  , url(./images/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, top left;
-    background-size: 48%, 6%;
+    background-size: 48%, 4%;
 }
 
 .banner {
