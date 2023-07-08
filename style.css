@@ -56,10 +56,10 @@ nav ul li a {
 /* header related style */
 header {
     background: #FFF8F3;
-    background-image: url(./images/header_bg.png);
+    background-image: url(./images/header_bg.png)  , url(./images/developer.png);
     background-repeat: no-repeat;
-    background-position: bottom right;
-    background-size: 48%;
+    background-position: bottom right, top left;
+    background-size: 48%, 6%;
 }
 
 .banner {
@@ -273,3 +273,5 @@ footer{
     background-color:( #FFF);
     font-size: 15px;
 }
+
+.footer-form input[type="text"], input[type="email"]
